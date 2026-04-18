@@ -1,0 +1,19 @@
+# Terraform local files
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+.terraform.lock.hcl
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+crash.log
+.terraformrc
+terraform.rc
+
+# Azure credentials / local editor files
+AzureAccces.txt
+*.pem
+*.pfx
