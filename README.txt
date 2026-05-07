@@ -1,0 +1,1 @@
+Those are the steps to deploy my first IAC
